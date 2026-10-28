@@ -15,9 +15,7 @@ Adaptivní algoritmus výtahu, jehož cílem je zkrátit čekání cestujících
 
 Výsledky se spočítají po načtení zadání. Tlačítkem **Spustit** lze přehrát průběh simulace.
 
-### Bez internetu
 
-Stáhněte repozitář přes **Code → Download ZIP**, rozbalte jej a otevřete `vytah.html` v prohlížeči. Potom načtěte přiložené `zadani.json`. Není potřeba server ani instalace knihoven.
 
 ## Jak algoritmus funguje
 
