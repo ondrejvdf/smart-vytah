@@ -45,24 +45,4 @@ Porovnání bylo provedeno na stejném zadání **Běžný den ve škole**, otis
 
 Průměrný čas celkem se snížil přibližně o **44,9 %** a ujetá vzdálenost o **19,9 %**.
 
-Kratší dráha je ukazatelem pro porovnání provozu. Simulátor přímo nepočítá spotřebu energie v kWh.
 
-## Ověření a omezení
-
-Proběhly porovnávací simulace různých nastavení a kontroly opakovatelnosti, resetu paměti a rozvozu všech osob. Algoritmus byl vyzkoušen také na dalších provozech s různými příchody, směry, počty pater, kapacitami a rychlostmi.
-
-Parametry byly laděny na společném školním zadání. Na jiném provozu mohou být výsledky horší. Nejde o důkaz ideálního algoritmu a někteří cestující stále čekají dlouho.
-
-V původním HTML byl změněn pouze blok algoritmu. Fyzika, rozhraní a manuál zůstaly zachované. Přiložené JSON zadání nebylo upraveno.
-
-## Použití AI a rozdělení práce
-
-Projekt vznikl jako samostatná práce s pomocí **ChatGPT/Codex**. Další spolužáci se na něm nepodíleli.
-
-| Kdo | Příspěvek |
-|---|---|
-| Autor repozitáře | Dodání podkladů, stanovení cíle, zpětná vazba, vyzkoušení první upravené verze a příprava odevzdání na GitHubu. |
-| ChatGPT/Codex – nástroj AI | Návrh a implementace upraveného algoritmu, opravy, automatizované testování, ladění parametrů a příprava dokumentace. |
-| Učitel | Původní simulátor, fyzika výtahu, rozhraní, manuál a společné zadání. |
-
-Použití AI je v zadání povoleno s odkazem na [školní AI semafor](https://www.skolavdf.cz/hub/ai-semafor/it.html).
